@@ -1,0 +1,1 @@
+1. Read through this one next https://www.paulgraham.com/ds.html
