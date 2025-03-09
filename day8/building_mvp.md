@@ -63,3 +63,4 @@ The fastest way to start is builiding a MVP
 Tips and tricks to building a MVP
 1. Timebox your spec - 2 weeks or 1 month 
 2. Write the spec - which features are required
+3. 
